@@ -1,10 +1,16 @@
 # HOSPITAL-MANAGEMENT-SYSTEM
 Proyashi Sarmah - ADTU/0/2025-29/BCSM/037
+
 Brismita Talukdar - ADTU/0/2025-29/BCSM/045
+
 Debanil Ritam Borgohain - ADTU/0/2025-29/BCSM/019
+
 Utpal Taye - ADTU/1/2025-29/BCSM/012
+
 Bigyan Jyoti Gogoi - ADTU/0/2025-29/BCSM/068
+
 Lakshyajyoti Das - ADTU/0/2025-29/BCSM/062
+
 
 # 🏥 Hospital Management System (C++)
 
